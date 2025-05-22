@@ -1,0 +1,70 @@
+[
+  {
+    "exchange_id": "32190342",
+    "website": "https://www.binance.com",
+    "name": "Binance",
+    "data_start": "2017-07-14",
+    "data_end": "2025-05-20",
+    "data_quote_start": "2017-07-14T00:00:00Z",
+    "data_quote_end": "2025-05-20T23:59:59Z",
+    "data_orderbook_start": "2017-07-14T00:00:00Z",
+    "data_orderbook_end": "2025-05-20T23:59:59Z",
+    "data_trade_start": "2017-07-14T00:00:00Z",
+    "data_trade_end": "2025-05-20T23:59:59Z",
+    "data_trade_count": 9876543210,
+    "data_symbols_count": 1450,
+    "volume_1hrs_usd": 842000000.55,
+    "volume_1day_usd": 17200000000.75,
+    "volume_1mth_usd": 512000000000.10,
+    "metric_id": [
+      "TRADE_COUNT",
+      "VOLUME_USD"
+    ],
+    "icons": [
+      {
+        "exchange_id": "BINANCE",
+        "asset_id": "BTC",
+        "url": "https://s3-symbol-logo.example.com/binance_btc.png"
+      },
+      {
+        "exchange_id": "BINANCE",
+        "asset_id": "ETH",
+        "url": "https://s3-symbol-logo.example.com/binance_eth.png"
+      }
+    ]
+  },
+  {
+    "exchange_id": "090832837",
+    "website": "https://www.coinbase.com",
+    "name": "Coinbase",
+    "data_start": "2015-01-01",
+    "data_end": "2025-05-20",
+    "data_quote_start": "2015-01-01T00:00:00Z",
+    "data_quote_end": "2025-05-20T23:59:59Z",
+    "data_orderbook_start": "2015-01-01T00:00:00Z",
+    "data_orderbook_end": "2025-05-20T23:59:59Z",
+    "data_trade_start": "2015-01-01T00:00:00Z",
+    "data_trade_end": "2025-05-20T23:59:59Z",
+    "data_trade_count": 4567890123,
+    "data_symbols_count": 590,
+    "volume_1hrs_usd": 312000000.33,
+    "volume_1day_usd": 6540000000.45,
+    "volume_1mth_usd": 185000000000.20,
+    "metric_id": [
+      "TRADE_COUNT",
+      "VOLUME_USD"
+    ],
+    "icons": [
+      {
+        "exchange_id": "COINBASE",
+        "asset_id": "BTC",
+        "url": "https://s3-symbol-logo.example.com/coinbase_btc.png"
+      },
+      {
+        "exchange_id": "COINBASE",
+        "asset_id": "ETH",
+        "url": "https://s3-symbol-logo.example.com/coinbase_eth.png"
+      }
+    ]
+  }
+]
